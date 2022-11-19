@@ -1,4 +1,3 @@
-import { Loader } from "@root/components/Loader/Loader";
 import type { NextPage } from "next";
 
 const Home: NextPage = () => {

@@ -27,6 +27,7 @@
     "@graphql-codegen/introspection": "^1.8.3",
     "@graphql-codegen/typescript": "^1.21.0",
     "@graphql-codegen/typescript-operations": "^1.17.14",
+    "@hookform/resolvers": "^2.9.10",
     "apollo-link-context": "^1.0.20",
     "apollo-upload-client": "^16.0.0",
     "babel-plugin-inline-react-svg": "^2.0.1",
@@ -35,7 +36,9 @@
     "query-string": "^7.0.1",
     "react": "17.0.2",
     "react-dom": "17.0.2",
-    "subscriptions-transport-ws": "^0.9.19"
+    "react-hook-form": "^7.39.4",
+    "subscriptions-transport-ws": "^0.9.19",
+    "yup": "^0.32.11"
   },
   "devDependencies": {
     "@types/node": "16.11.6",
